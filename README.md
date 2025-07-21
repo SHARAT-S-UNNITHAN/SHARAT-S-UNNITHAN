@@ -29,6 +29,28 @@ Hey there! I'm **Sharat S Unnithan**, a tech-savvy developer, creative designer,
 </p>
 
 ---
+## 🧰 Tools & Technologies I Use
+
+- 💻 **Frontend**: HTML, CSS, JavaScript  
+- 🎨 **Design**: Figma, Canva  
+- 🧩 **Backend**: Python, Django  
+- 🗄️ **Database**: SQLite, MySQL  
+- 📦 **Version Control**: Git, GitHub  
+- ⚙️ **Others**: VS Code, ChatGPT, Netlify, GitHub Pages  
+---
+## 🧠 Currently Learning
+
+- 🔐 Cybersecurity Foundations (Coursera)
+- 🧑‍🎨 UI/UX Principles (Figma)
+- 🌍 GitHub Pages Deployment
+- 🛠️ Real-World Project Building (YIP Smart Irrigation Project)
+---
+## 🧩 Personal Motto
+
+_"Creativity is intelligence having fun."_ – Albert Einstein
+
+> I believe learning should be fun and expressive — that’s why even my login pages party 🎉
+
 
 ## 📌 Featured Projects
 
@@ -77,6 +99,16 @@ Hey there! I'm **Sharat S Unnithan**, a tech-savvy developer, creative designer,
 > _I write code the way I game: fast fingers, high focus, and just a touch of style._ 🎮⚡
 
 ---
+## 👨‍💻 About Me
+
+I'm **Sharat**, a B C A student from Kerala blending **tech, creativity, and gaming** into every project I build.  
+I don’t just code — I build **experiences**. Whether it’s a disco login or a YouTube edit, I bring energy and imagination to it all.
+
+📍 Living in: Kayamkulam  
+💼 Career Goal: Full Stack Developer + UI/UX Specialist  
+🎯 Currently working on: YIP Smart Irrigation System  
+🎮 Favorite Game: Valorant (check out my headshots 🎯)  
+
 
 ## 👁️ Visitor Count
 
