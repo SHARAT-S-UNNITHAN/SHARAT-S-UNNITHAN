@@ -4,6 +4,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-animated-gif.vercel.app/welcome.gif" width="60%" />
+</p>
+---
 
 # 👨‍💻 About Me
 
@@ -70,6 +74,13 @@ _"Creativity is intelligence having fun."_ – Albert Einstein
 </p>
 
 ---
+## 🌟 Highlights
+
+- 🛠️ Built 10+ Creative UI Projects
+- 🌱 Self-taught Figma & Frontend
+- 📢 Public Speaker in college tech fests
+- 📖 Currently learning Cybersecurity (Microsoft x Coursera)
+---
 
 ## 🔥 Streaks & Trophies
 
@@ -86,7 +97,6 @@ _"Creativity is intelligence having fun."_ – Albert Einstein
 ## 🌐 Let's Connect!
 
 - 📧 [sharatsunnithan3@gmail.com](mailto:sharatsunnithan3@gmail.com)
-- 📞 +91 90613 78596  
 - 📸 [Instagram](https://www.instagram.com/gamer_sharat_/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharat-s-unnithan-b363852a7)
 - 🎥 [YouTube](https://www.youtube.com/@gamersharat)
@@ -109,6 +119,62 @@ I don’t just code — I build **experiences**. Whether it’s a disco login or
 🎯 Currently working on: YIP Smart Irrigation System  
 🎮 Favorite Game: Valorant (check out my headshots 🎯)  
 
+> sharat@github:~$ whoami  
+👨‍💻 B C A Student | 💡 Developer | 🎮 Gamer  
+
+> sharat@github:~$ ls skills  
+📁 HTML  📁 CSS  📁 JS  📁 Django  📁 Python  📁 Figma  
+
+> sharat@github:~$ cat motto.txt  
+"Creativity is my fuel, and caffeine is my backup plan."
+---
+## 📈 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHARAT-S-UNNITHAN&theme=react-dark&color=FF7722&line=ffffff&point=00e6e6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+## 💬 Testimonials
+
+> *“Sharat brings creativity to the frontend like no one else.”* – Rahul  
+> *“His attention to UI/UX detail is way above beginner level.”* – College teammate
+
+
+---
+## 🛤️ My Tech Journey
+
+📍 2022: Started with HTML & CSS  
+🚀 2023: Learned Python, Django, and Version Control  
+🎨 2024: Entered UI/UX with Figma + JS DOM  
+🛡️ 2025: Learning Cybersecurity + Full-stack skills  
+📈 Future: Building full-fledged products & open-source tools
+---
+## 🎮 Off the Screen
+
+🎧 Lo-fi lover | 🎮 Valorant headshot specialist  
+🍿 Film Reviewer (Malayalam cinema ftw)  
+💪 Gym beast (Saffron plates only 😎)  
+🧠 Philosophy nerd (Geeta vibes included)
+---
+## 🧠 I Believe In
+
+- 💡 Simplicity over complexity  
+- 🤝 Sharing knowledge with juniors  
+- 🚫 No caste, religion, or status above humanity  
+- 🎯 Code with purpose, not just syntax
+---
+## 🌐 Languages I Speak
+
+- 🇮🇳 Malayalam (Native)
+- 🇮🇳 Hindi (Good in speaking)
+- 🇬🇧 English (Professional)  
+- 💻 Python, HTML, CSS, JavaScript
+---
+## 🧬 Built With
+
+- 🐍 Python for logic  
+- 🖋️ Markdown for formatting  
+- 🎨 Love for design  
+- 🔥 FF7722 as the soul color 😎  
+---
 
 ## 👁️ Visitor Count
 
@@ -121,3 +187,12 @@ I don’t just code — I build **experiences**. Whether it’s a disco login or
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7722&height=120&section=footer"/>
 </p>
+## 🔒 Also Working On...
+
+Some of my projects are under NDA, client-based, or private builds.  
+👉 Want to know more? [Drop me a message.](mailto:sharatsunnithan3@gmail.com)
+---
+
+> 🧠 "You don't need to be great to start,  
+but you need to start to be great." – Zig Ziglar
+
