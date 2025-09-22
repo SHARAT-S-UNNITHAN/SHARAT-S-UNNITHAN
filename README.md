@@ -15,7 +15,7 @@
 Hey there! I'm **Sharat S Unnithan**, a tech-savvy developer, creative designer, and student who loves mixing **aesthetics + logic**. From animated login forms to Django dashboards — I create digital experiences that are clean, interactive, and full of **vibe**.
 
 - 📍 From Kayamkulam, Kerala
-- 🎓 Currently pursuing B.Tech
+- 🎓 Currently pursuing BCA
 - 💡 Exploring UI/UX, Figma, Python, Django
 - 🎮 Gamer | 🎥 YouTuber | 🧠 Problem Solver
 
