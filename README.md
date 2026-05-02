@@ -5,7 +5,7 @@ Hi, I'm Sharat S Unnithan
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;UI%2FUX+Focused+Builder;React+%2B+Django+%2B+Node+Workflow;AI+Integrated+Applications" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%2B+Node+%2B+Django;UI%2FUX+Focused+Builder;AI+Integrated+Applications" 
   />
 </div>
 
@@ -19,36 +19,57 @@ I build modern web applications combining frontend design, backend systems, and 
 </p>
 
 <p align="center">
-Focused on <b>clean UI</b>, <b>structured backend logic</b>, and <b>real-world usability</b>
+Focused on <b>clean UI</b>, <b>structured backend</b>, and <b>real-world usability</b>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Core Stack</h3>
+<h3 align="center">Technical Stack</h3>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center">Frontend Development</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-<h4 align="center">Backend</h4>
+<h4 align="center">Backend & APIs</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
 </p>
 
-<h4 align="center">Database</h4>
+<h4 align="center">Databases</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-<h4 align="center">AI / Integration</h4>
+<h4 align="center">AI / ML</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-<h4 align="center">Design & Tools</h4>
+<h4 align="center">Design & Creativity</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Canva-FF7722?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+<h4 align="center">Version Control & Hosting</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-FF7722?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-FF7722?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+<h4 align="center">Development Environment</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://img.shields.io/badge/ChatGPT-FF7722?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<h4 align="center">Content Creation & Media</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/YouTube-FF7722?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OBS-FF7722?style=for-the-badge&logo=obsstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-FF7722?style=for-the-badge&logo=riotgames&logoColor=white"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
@@ -56,39 +77,27 @@ Focused on <b>clean UI</b>, <b>structured backend logic</b>, and <b>real-world u
 <h3 align="center">Development Approach</h3>
 
 <p align="center">
-UI/UX Design → Frontend Implementation → Backend Logic → Database Integration → Deployment
+Design → Build → Integrate → Deploy
 </p>
 
 <p align="center">
-Building projects with a focus on <b>structure, usability, and scalability</b>
+UI/UX Thinking · Backend Logic · Database Structure · AI Integration
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Featured Work</h3>
+<h3 align="center">Featured Projects</h3>
 
 <div align="center">
 
 | Project | Highlights |
 |--------|-----------|
-| **INSANE Login Party** | Advanced UI animations, interactive design, frontend creativity |
-| **Expense Tracker V2** | Django backend, database integration, admin system |
-| **Local Mart** | MySQL-based application with structured data handling |
-| **Major Project** | React + Node.js + AI integration (TensorFlow-based logic) |
+| **INSANE Login Party** | Creative UI, animations, interactive frontend |
+| **Expense Tracker V2** | Django backend, database integration, admin panel |
+| **Local Mart** | MySQL-based system with structured data handling |
+| **Major Project** | React + Node.js + TensorFlow integration |
 
 </div>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-<h3 align="center">Ecosystem & Tools</h3>
-
-<p align="center">
-Git · GitHub · GitHub Pages · Netlify  
-</p>
-
-<p align="center">
-VS Code · OBS Studio · YouTube Studio · Canva  
-</p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -103,7 +112,7 @@ VS Code · OBS Studio · YouTube Studio · Canva
 | Crash Course on Python | Programming |
 | Software Engineering | Development principles |
 | OS & Security | System fundamentals |
-| AI for Productivity | Applied AI tools |
+| AI Productivity | Applied AI tools |
 | Professional Communication | Communication skills |
 
 </div>
@@ -119,18 +128,6 @@ VS Code · OBS Studio · YouTube Studio · Canva
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHARAT-S-UNNITHAN&theme=default" width="95%" />
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-<h3 align="center">Current Focus</h3>
-
-<p align="center">
-Full Stack Development <b>|</b> React Ecosystem
-</p>
-
-<p align="center">
-Backend Systems <b>|</b> AI Integration
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
