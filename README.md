@@ -5,51 +5,62 @@ Hi, I'm Sharat S Unnithan
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;UI%2FUX+Focused+Builder;Working+on+ML+Driven+Systems;Turning+Ideas+Into+Real+Projects" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;React+%26+Node.js+Builder;UI%2FUX+Focused+Designer;AI+Integrated+Applications" 
   />
 </div>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Developer Profile</h3>
+<h3 align="center">Full Stack Developer · UI/UX Focused</h3>
 
 <p align="center">
 BCA Final Year Student (2026) · Kerala, India<br/>
-Focused on building practical applications with clean UI and solid backend logic
+Building modern web applications with strong frontend design, backend systems, and AI integrations
 </p>
 
 <p align="center">
-I combine <b>development</b>, <b>design</b>, and <b>problem-solving</b> to create usable, real-world systems
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-<h3 align="center">Technical Capabilities</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,sqlite,git,github,figma,vscode" />
-</p>
-
-<p align="center">
-Frontend · Backend · Database Integration · UI Design · Version Control
+I focus on creating applications that are not just functional, but also visually clean and user-friendly
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">🚧 Current Project (Major)</h3>
+<h3 align="center">Technical Stack</h3>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h4 align="center">Backend & Systems</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
+</p>
+
+<h4 align="center">Database</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+<h4 align="center">AI / ML</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<h4 align="center">Tools & Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+<h3 align="center">Capabilities</h3>
 
 <p align="center">
-<b>ML-Driven Service Response System</b>
+Frontend Development · Backend APIs · Database Design  
 </p>
 
 <p align="center">
-→ Designing a system that uses machine learning to improve service response decisions<br/>
-→ Working on data handling, model logic, and backend integration<br/>
-→ Goal: build a system that is not just functional, but practically useful
-</p>
-
-<p align="center">
-<b>Focus Areas:</b> Python · ML Concepts · Backend Integration
+UI/UX Design · AI Integration · Full Stack Workflow  
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
@@ -58,11 +69,11 @@ Frontend · Backend · Database Integration · UI Design · Version Control
 
 <div align="center">
 
-| Project | Depth |
+| Project | Focus |
 |--------|------|
-| **INSANE Login Party** | Advanced UI interaction, animation design, creative frontend engineering |
-| **Expense Tracker V2** | Backend architecture, database design, CRUD operations, admin control |
-| **GamerSharat YouTube** | Content creation, editing workflow, consistency & audience engagement |
+| **INSANE Login Party** | Advanced UI design, animations, interactive frontend |
+| **Expense Tracker V2** | Full stack development, backend logic, data handling |
+| **Major Project (In Progress)** | React + Node + AI integration using TensorFlow |
 
 </div>
 
@@ -72,15 +83,15 @@ Frontend · Backend · Database Integration · UI Design · Version Control
 
 <div align="center">
 
-| Certification | Provider | Focus |
-|--------------|---------|------|
-| AWS S3 Basics | Coursera | Cloud Storage |
-| Accelerate Job Search with AI | Google | AI Tools |
-| Introduction to AI | IBM | AI Concepts |
-| Speak English Professionally | Georgia Tech | Communication |
-| Computers, OS & Security | Microsoft | Systems |
-| Crash Course on Python | Google | Programming |
-| Software Engineering Intro | IBM | Development |
+| Certification | Focus Area |
+|--------------|-----------|
+| AWS S3 Basics | Cloud storage fundamentals |
+| Accelerate Job Search with AI | AI tools & productivity |
+| Introduction to AI | Machine learning concepts |
+| Speak English Professionally | Communication |
+| Computers, OS & Security | System fundamentals |
+| Crash Course on Python | Programming |
+| Software Engineering Intro | Development principles |
 
 </div>
 
@@ -102,11 +113,11 @@ Frontend · Backend · Database Integration · UI Design · Version Control
 <h3 align="center">Current Direction</h3>
 
 <p align="center">
-Full Stack Development <b>|</b> UI/UX Design
+Full Stack Development <b>|</b> React Ecosystem
 </p>
 
 <p align="center">
-Machine Learning Integration <b>|</b> Real-world Systems
+AI Integration <b>|</b> Real-world Applications
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
