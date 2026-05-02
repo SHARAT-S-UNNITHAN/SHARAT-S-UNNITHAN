@@ -1,9 +1,8 @@
 
 
 ```markdown
-# Hi, I'm Sharat S Unnithan
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7722&center=false&vCenter=true&width=435&lines=BCA+Student+%7C+Developer+%7C+Designer;Frontend+Enthusiast;UI%2FUX+Learner;Gamer+%7C+Creator)
+# Hi, I'm Sharat S Unnitha!
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7722&center=false&vCenter=true&width=435&lines=BCA+Student+%7C+Developer+%7C+Designer;Frontend+Enthusiast;UI%2FUX+Learner;Gamer+%7C+Creator)
 
 ━━━━━━━━━━━━━━━━━━━━
 
