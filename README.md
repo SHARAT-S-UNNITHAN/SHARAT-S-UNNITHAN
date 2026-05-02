@@ -5,28 +5,66 @@ Hi, I'm Sharat S Unnithan
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Real+World+Projects;Exploring+AI+%26+Software+Systems" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;UI%2FUX+Focused+Builder;Working+on+ML+Driven+Systems;Turning+Ideas+Into+Real+Projects" 
   />
 </div>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">
-Focused on Growth, Building, and Real Skills
-</h3>
+<h3 align="center">Developer Profile</h3>
 
 <p align="center">
-BCA Final Year Student (2026) from Kerala, India<br/>
-I build web applications, design user interfaces, and continuously improve through hands-on projects
+BCA Final Year Student (2026) · Kerala, India<br/>
+Focused on building practical applications with clean UI and solid backend logic
+</p>
+
+<p align="center">
+I combine <b>development</b>, <b>design</b>, and <b>problem-solving</b> to create usable, real-world systems
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Technical Stack</h3>
+<h3 align="center">Technical Capabilities</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,sqlite,git,github,figma,vscode" />
 </p>
+
+<p align="center">
+Frontend · Backend · Database Integration · UI Design · Version Control
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+<h3 align="center">🚧 Current Project (Major)</h3>
+
+<p align="center">
+<b>ML-Driven Service Response System</b>
+</p>
+
+<p align="center">
+→ Designing a system that uses machine learning to improve service response decisions<br/>
+→ Working on data handling, model logic, and backend integration<br/>
+→ Goal: build a system that is not just functional, but practically useful
+</p>
+
+<p align="center">
+<b>Focus Areas:</b> Python · ML Concepts · Backend Integration
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+<h3 align="center">Featured Projects</h3>
+
+<div align="center">
+
+| Project | Depth |
+|--------|------|
+| **INSANE Login Party** | Advanced UI interaction, animation design, creative frontend engineering |
+| **Expense Tracker V2** | Backend architecture, database design, CRUD operations, admin control |
+| **GamerSharat YouTube** | Content creation, editing workflow, consistency & audience engagement |
+
+</div>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -34,35 +72,21 @@ I build web applications, design user interfaces, and continuously improve throu
 
 <div align="center">
 
-| Certification | Provider | Completed |
-|--------------|---------|----------|
-| AWS S3 Basics | Coursera | May 2026 |
-| Accelerate Your Job Search with AI | Google | May 2026 |
-| Introduction to Artificial Intelligence | IBM | Apr 2026 |
-| Speak English Professionally | Georgia Tech | Apr 2026 |
-| Intro to Computers & OS + Security | Microsoft | Feb 2026 |
-| Crash Course on Python | Google | Feb 2026 |
-| Introduction to Software Engineering | IBM | Feb 2026 |
+| Certification | Provider | Focus |
+|--------------|---------|------|
+| AWS S3 Basics | Coursera | Cloud Storage |
+| Accelerate Job Search with AI | Google | AI Tools |
+| Introduction to AI | IBM | AI Concepts |
+| Speak English Professionally | Georgia Tech | Communication |
+| Computers, OS & Security | Microsoft | Systems |
+| Crash Course on Python | Google | Programming |
+| Software Engineering Intro | IBM | Development |
 
 </div>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Featured Work</h3>
-
-<div align="center">
-
-| Project | What It Shows |
-|--------|--------------|
-| **INSANE Login Party** | Creativity in UI, animations, and interaction design |
-| **Expense Tracker V2** | Backend logic, database integration, full-stack workflow |
-| **GamerSharat YouTube** | Content creation, editing, and consistency |
-
-</div>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center">GitHub Insights</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHARAT-S-UNNITHAN&show_icons=true&hide_border=true&title_color=FF7722&icon_color=FF7722&text_color=444&bg_color=ffffff" height="160"/>
@@ -75,14 +99,14 @@ I build web applications, design user interfaces, and continuously improve throu
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Current Focus</h3>
+<h3 align="center">Current Direction</h3>
 
 <p align="center">
 Full Stack Development <b>|</b> UI/UX Design
 </p>
 
 <p align="center">
-AI Fundamentals <b>|</b> Building Practical Projects
+Machine Learning Integration <b>|</b> Real-world Systems
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
