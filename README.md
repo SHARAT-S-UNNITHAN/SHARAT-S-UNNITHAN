@@ -1,120 +1,146 @@
+<h1 align="center">
+Hi, I'm Sharat S Unnithan 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=FF7722&center=true&vCenter=true&width=760&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Cybersecurity+Learner;Building+Real+World+Projects" 
+  />
+</div>
 
-```markdown
-# Hi, I'm Sharat S Unnitha!
-[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7722&center=false&vCenter=true&width=435&lines=BCA+Student+%7C+Developer+%7C+Designer;Frontend+Enthusiast;UI%2FUX+Learner;Gamer+%7C+Creator)
-
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 👨‍💻 About Me
+<h3 align="center">
+I'm a Web Developer & UI/UX Enthusiast
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" />
+</h3>
 
-I'm a **tech-savvy developer and creative designer** who loves blending aesthetics with logic.  
-From animated login forms to Django dashboards — I create digital experiences that are clean, interactive, and full of vibe.
+<p align="center">
+Focused on building clean, functional web applications and intuitive user experiences,<br/>
+while exploring cybersecurity and real-world development practices
+</p>
 
-- 📍 From **Kayamkulam, Kerala**
-- 🎓 Currently pursuing **BCA** (Final Year - 2026)
-- 💡 Exploring **UI/UX, Figma, Python, Django**
-- 🎮 Gamer | 🎥 YouTuber | 🧠 Problem Solver
-
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 🚀 My Technical Stack
+<h3 align="center">My Technical Stack</h3>
 
-### 💻 Frontend
-HTML · CSS · JavaScript
+<h4 align="center">Core Technologies</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" height="48" />
+</p>
 
-### 🧩 Backend
-Python · Django
+<h4 align="center">Frameworks & Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django" height="48" />
+</p>
 
-### 🗄️ Databases
-SQLite · MySQL
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="48" />
+</p>
 
-### 🎨 Design
-Figma · Canva
+<h4 align="center">Design & Creativity</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="48" />
+</p>
 
-### 📦 Version Control
-Git · GitHub
+<h4 align="center">Tools & Workflow</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+</p>
 
-### ⚙️ Tools
-VS Code · Netlify · GitHub Pages
-
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 📚 Currently Learning
+<h3 align="center">Featured Projects</h3>
 
-| Skill | Platform |
-| :--- | :--- |
-| 🔐 Cybersecurity Foundations | Coursera |
-| 🧑‍🎨 UI/UX Principles | Figma |
-| 🌍 GitHub Pages Deployment | Self-paced |
-| 🛠️ Real-World Project Building | YIP Smart Irrigation |
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 📌 Featured Projects
+<div align="center">
 
 | Project | Description |
-| :--- | :--- |
-| 🪩 **INSANE Login Party!** | Disco-themed login UI with emojis, lights, and interactivity |
-| 💸 **Expense Tracker V2** | Django-powered expense tracker with dashboard and admin panel |
-| 🎥 **GamerSharat YouTube** | Valorant clips, gaming edits, and headshot compilations |
+|--------|------------|
+| **INSANE Login Party** | Disco-themed login UI with animations, emojis, and interactivity |
+| **Expense Tracker V2** | Django-based expense tracker with dashboard & admin panel |
+| **GamerSharat YouTube** | Valorant clips, edits, and gaming content |
 
+</div>
+
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 📊 GitHub Stats
+<h3 align="center">My GitHub Stats 
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="18px" />
+</h3>
 
-![Sharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHARAT-S-UNNITHAN&show_icons=true&theme=dark&hide_title=true&hide_rank=false&bg_color=0d1117&title_color=FF7722&icon_color=FF7722)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHARAT-S-UNNITHAN&theme=tokyonight&border=FF7722&background=0D1117&stroke=FF7722&ring=FF7722&fire=FF7722&currStreakLabel=FF7722" width="70%" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHARAT-S-UNNITHAN&theme=dark&ring=FF7722&fire=FF7722&currStreakLabel=FF7722)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHARAT-S-UNNITHAN&bg_color=0d1117&color=FF7722&line=FF7722&point=ffffff&area=true&area_color=FF7722&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</p>
 
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 🌐 Let's Connect
+<h3 align="center">Let's Connect</h3>
 
-- 📧 **Email:** sharatsunnithan3@gmail.com
-- 💼 **LinkedIn:** [in/sharat-s-unnithan-b363852a7](https://linkedin.com/in/sharat-s-unnithan-b363852a7)
-- 📸 **Instagram:** @gamer_sharat_
-- 🎥 **YouTube:** GamerSharat
-- 🐙 **GitHub:** [SHARAT-S-UNNITHAN](https://github.com/SHARAT-S-UNNITHAN)
+<p align="center">
+  <a href="https://instagram.com/gamer_sharat_">
+    <img src="https://img.shields.io/badge/Instagram-FF7722?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sharat-s-unnithan-b363852a7">
+    <img src="https://img.shields.io/badge/LinkedIn-FF7722?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharatsunnithan3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF7722?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@GamerSharat">
+    <img src="https://img.shields.io/badge/YouTube-FF7722?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 🧠 My Philosophy
+<h3 align="center">Currently Focusing On</h3>
 
-> *"Creativity is intelligence having fun." – Albert Einstein*
+<p align="center">
+  Cybersecurity (Coursera) <b>|</b>
+  UI/UX Design (Figma)
+</p>
 
-I believe learning should be fun and expressive — that's why even my login pages party 🎉
+<p align="center">
+  Real-world Projects <b>|</b>
+  GitHub Pages Deployment
+</p>
 
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 🎮 Off the Screen
+<h3 align="center">Philosophy</h3>
 
-- 🎧 Lo-fi lover
-- 🎮 Valorant headshot specialist
-- 🍿 Film reviewer (Malayalam cinema ftw)
-- 💪 Gym enthusiast
-- 🧠 Philosophy nerd
+<p align="center">
+"Creativity is intelligence having fun." — Albert Einstein  
+</p>
 
+<p align="center">
+"You don't need to be great to start, but you need to start to be great." — Zig Ziglar  
+</p>
+
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━
+</p>
 
-## 🛤️ My Tech Journey
-
-```
-📍 2022 → Started with HTML & CSS
-🚀 2023 → Learned Python, Django, and Version Control
-🎨 2024 → Entered UI/UX with Figma + JS DOM
-🛡️ 2025 → Learning Cybersecurity + Full-stack skills
-📈 Future → Building full-fledged products & open-source tools
-```
-
-━━━━━━━━━━━━━━━━━━━━
-
-## 👁️ Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SHARAT-S-UNNITHAN&color=FF7722&style=flat-square)
-
-━━━━━━━━━━━━━━━━━━━━
-
-> *"You don't need to be great to start, but you need to start to be great." – Zig Ziglar*
-```
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHARAT-S-UNNITHAN&color=FF7722&style=flat" />
+</p>
